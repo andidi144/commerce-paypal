@@ -51,4 +51,4 @@ function initCheckout() {
     }
 }
 
-initCheckout();
+setTimeout(initPaypalCheckout, 500);
